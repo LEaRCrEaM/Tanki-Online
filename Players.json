@@ -1,10 +1,10 @@
 {
-  'Meteron': true,
-  'Soduko': true,
-  'Neveah': true,
-  'Oppressor': false,
-  'Menum': true,
-  'Mammon': false,
-  'Archangels': false,
-  'Feral': false
+  "Meteron": true,
+  "Soduko": true,
+  "Neveah": true,
+  "Oppressor": false,
+  "Menum": true,
+  "Mammon": false,
+  "Archangels": false,
+  "Feral": false
 }
