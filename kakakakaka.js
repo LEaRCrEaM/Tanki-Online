@@ -139,13 +139,11 @@ function aa() {
             var t = document.querySelectorAll('canvas')[1];
             if (isGameActive && (t.classList.length > 1)) {
                 isGameActive = false;
-                resetSpec();
                 window.TEST = [];
                 window.shells = [];
             };
             if (!isGameActive && !(t.classList.length > 1)) {
                 isGameActive = true;
-                updateSpec();
                 function onJoinGame2() {
                     try {
                         onJoinGame();
