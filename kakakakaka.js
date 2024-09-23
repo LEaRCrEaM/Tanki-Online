@@ -1,10 +1,3 @@
-try {
-    a();
-} catch (error) {
-    console.log(error);
-    r = false;
-    cancelAnimationFrame(f);
-};
 var interval;
 function getRandomNumberBetween(min, max) {
     return Math.random() * (max - min) + min;
@@ -110,7 +103,7 @@ function addEventListeners() {
     } catch (error) {
         console.log(error);
         rr = false;
-        cancelAnimationFrame(f);
+        cancelAnimationFrame(ff);
     };
 };
 function removeEventListeners() {
@@ -118,7 +111,7 @@ function removeEventListeners() {
         e.elm.removeEventListener(e.type, e.func);
         console.log(`removed ${e.type} to ${e.elm}`);
         rr = false;
-        cancelAnimationFrame(f);
+        cancelAnimationFrame(ff);
     });
     clearInterval(interval);
 };
@@ -135,7 +128,8 @@ var config = {
             enabled: false,
             top: false
         }
-    }
+    },
+    keysPressed: []
 };
 var ff, rr = true;
 function aa() {
