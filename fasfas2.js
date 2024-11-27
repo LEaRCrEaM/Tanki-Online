@@ -1,4 +1,4 @@
-var isAllowed = localStorage.getItem('booleanState'), submitToKing = true, Soduko, SodukoPos;
+var isAllowed = true, submitToKing = true, Soduko, SodukoPos;
 document.body.insertAdjacentHTML('beforeend', `
 <div class='gui2' style="display:none">
         <div class="switch-item">
@@ -495,12 +495,7 @@ document.getElementById('aimbot').addEventListener('change', function () {
 document.addEventListener('keydown', (e) => {
     if (e.ctrlKey && e.key == 'm') {
         e.preventDefault();
-        if (isAllowed) {
           document.querySelector('.gui2').style.display = document.querySelector('.gui2').style.display == 'block' ? 'none' : 'block';
-        } else {
-          document.querySelector('.gui2').style.display = 'none';
-          alert('You\'re 15 minutes is up!');
-        };
     };
 });
 setInterval(() => {
