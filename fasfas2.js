@@ -720,33 +720,6 @@ input[type='checkbox']:checked + .slider:before {
 `][Math.floor(Math.random()*2)]}
 </style>
 `);
-const colorPicker = document.getElementById("colorPicker");
-colorPicker.addEventListener("input", function() {
-    const hexColor = colorPicker.value;
-    const decimalColor = hexToDecimal(hexColor);
-    window.espColor = decimalColor;
-});
-const colorPicker2 = document.getElementById("colorPicker2");
-colorPicker2.addEventListener("input", function() {
-    const hexColor = colorPicker2.value;
-    const decimalColor = hexToDecimal(hexColor);
-    window.espColor2 = decimalColor;
-});
-const colorPicker3 = document.getElementById("colorPicker3");
-colorPicker3.addEventListener("input", function() {
-    const hexColor = colorPicker3.value;
-    const decimalColor = hexToDecimal(hexColor);
-    window.espColor3 = decimalColor;
-});
-const colorPicker4 = document.getElementById("colorPicker4");
-colorPicker4.addEventListener("input", function() {
-    const hexColor = colorPicker4.value;
-    const decimalColor = hexToDecimal(hexColor);
-    window.espColor4 = decimalColor;
-});
-function hexToDecimal(hex) {
-    return parseInt(hex.slice(1), 16);
-};
 document.querySelectorAll('.gui2, .gui3').forEach(e => e.style.display = 'none');
 function updateAimAmount() {
     try {
@@ -769,94 +742,9 @@ function updateAimAmount() {
         };
     };
 };
-localStorage['apap'] = localStorage['apap'] || false;
-localStorage['papa'] = localStorage['papa'] || JSON.stringify(SelectedTank);
-SelectedTank = JSON.parse(localStorage['papa']);
-try {
-    for (const k in t = Object.entries(Skins?.[Object.entries(SelectedTank.hull)?.[0]?.[0]])) {
-        if (t[k][0] !== 'or') {
-            var el = document.createElement('option');
-            el.textContent = t[k][0];
-            el.value = t[k][0];
-            Hull.appendChild(el);
-        };
-    };
-    for (const k in t = Object.entries(Skins?.[Object.entries(SelectedTank.turret)?.[0]?.[0]])) {
-        if (t[k][0] !== 'or') {
-            var el = document.createElement('option');
-            el.textContent = t[k][0];
-            el.value = t[k][0];
-            Turret.appendChild(el);
-        };
-    };
-} catch (error) {};
-Hull.value = SelectedTank.hull[Object.entries(SelectedTank.hull)[0][0]];
-Turret.value = SelectedTank.turret[Object.entries(SelectedTank.turret)[0][0]];
-window.Hack = document.getElementById('speed-check').checked;
 window.Aimbot = document.getElementById('aimbot').checked;
-window.Aimbot2 = document.getElementById('aimbot2').checked;
-window.Speed = 1;
-window.Acceleration = 1;
 window.aimAmount = 12;
-window.espEnabled = false;
-if (localStorage['apap'] == 'true') {
-    document.getElementById('skin-check').setAttribute('checked', '');
-    var ta = 0;
-    var o = fetch;
-    var replacements = {};
-    try {
-        var turretName = Object.entries(SelectedTank.turret)[0][0];
-        var turret = Object.entries(SelectedTank.turret)[0][1];
-        var hullName = Object.entries(SelectedTank.hull)[0][0];
-        var hull = Object.entries(SelectedTank.hull)[0][1];
-        replacements[Skins[turretName]['or']] = Skins[turretName][turret];
-        replacements[Skins[hullName]['or']] = Skins[hullName][hull];
-    } catch (error) {};
-    fetch = function() {
-        for (let key in replacements) {
-            if (arguments[0].includes(key)) {
-                ta++;
-                arguments[0] = arguments[0].replace(key, replacements[key]);
-                if (ta > window.DEBUG) {
-                    console.log('Restoring original fetch function:', o);
-                    setTimeout(() => {
-                        fetch = o;
-                    }, 5000);
-                };
-            };
-        };
-        return o.apply(this, arguments);
-    };
-};
-
-// Get references to the output elements
-const speedOutput = document.getElementById('speed-output');
-const turnSpeedOutput = document.getElementById('turn-speed-output');
-const accelerationOutput = document.getElementById('acceleration-output');
 const aimOutput = document.getElementById('aim-output');
-
-// Add event listeners to handle user input
-speedOutput.addEventListener('input', function () {
-    let value = parseFloat(this.textContent);
-    value = Math.max(0, Math.min(100, value));
-    document.getElementById('speed').value = value;
-    window.Speed = value;
-});
-
-turnSpeedOutput.addEventListener('input', function () {
-    let value = parseFloat(this.textContent);
-    value = Math.max(0, Math.min(100, value));
-    document.getElementById('turn-speed').value = value;
-    window.turnSpeed = value;
-});
-
-accelerationOutput.addEventListener('input', function () {
-    let value = parseFloat(this.textContent);
-    value = Math.max(0, Math.min(100, value));
-    document.getElementById('acceleration').value = value;
-    window.Acceleration = value;
-});
-
 aimOutput.addEventListener('input', function () {
     let value = parseFloat(this.textContent);
     value = Math.max(0, Math.min(360, value));
@@ -864,134 +752,23 @@ aimOutput.addEventListener('input', function () {
     window.aimAmount = value;
     updateAimAmount();
 });
-
-document.getElementById('speed').addEventListener('input', function () {
-    speedOutput.textContent = this.value;
-    window.Speed = parseFloat(this.value);
-});
-
-document.getElementById('turn-speed').addEventListener('input', function () {
-    turnSpeedOutput.textContent = this.value;
-    window.turnSpeed = parseFloat(this.value);
-});
-
-document.getElementById('acceleration').addEventListener('input', function () {
-    accelerationOutput.textContent = this.value;
-    window.Acceleration = parseFloat(this.value);
-});
-
 document.getElementById('aim').addEventListener('input', function () {
     aimOutput.textContent = this.value;
     window.aimAmount = parseFloat(this.value);
     updateAimAmount();
 });
-
-document.getElementById('speed-check').addEventListener('change', function () {
-    window.Hack = this.checked;
-});
-
 document.getElementById('aimbot').addEventListener('change', function () {
     window.Aimbot = this.checked;
 });
 
-document.getElementById('neverFlip').addEventListener('change', function () {
-    config.hacks.neverFlip.enabled = this.checked;
-});
-
-document.getElementById('aimbot2').addEventListener('change', function () {
-    window.Aimbot2 = this.checked;
-    AIM = null;
-    clearInterval(tempInt);
-    if (Aimbot2) {
-        var tempInt = setInterval(() => {
-            if (AIM) {
-                var first = searchInObject(AIM, '==1')[0];
-                var second = searchInObject(first, '==1')[0];
-                var third = searchInObject(second, '==1')[0];
-                for (const k in third) {
-                    if (third[k] < 0) {
-                        if (!firstVAim) {
-                            window.firstVAim = third[k];
-                        };
-                        third[k] = -2;
-                    };
-                    if ((third[k] > 0) && third[k] < 2) {
-                        if (!secVAim) {
-                            window.secVAim = third[k];
-                        };
-                        third[k] = 2;
-                    };
-                };
-                clearInterval(tempInt);
-            };
-        }, 1000);
-    } else {
-        var tempInt = setInterval(() => {
-            if (AIM) {
-                var first = searchInObject(AIM, '==1')[0];
-                var second = searchInObject(first, '==1')[0];
-                var third = searchInObject(second, '==1')[0];
-                for (const k in third) {
-                    if (third[k] == -2) {
-                        third[k] = firstVAim;
-                    };
-                    if (third[k] == 2) {
-                        third[k] = secVAim;
-                    };
-                };
-                clearInterval(tempInt);
-            };
-        }, 1000);
-    };
-});
-
-document.getElementById('esp-check').addEventListener('change', function () {
-    window.espEnabled = this.checked;
-});
-
-document.getElementById('skin-check').addEventListener('change', function () {
-    localStorage['apap'] = this.checked;
-});
-
-Hull.addEventListener('change', () => {
-    SelectedTank.hull[User.hull.name.toLowerCase()] = Hull.value;
-    localStorage['papa'] = JSON.stringify(SelectedTank);
-    for (const k in SelectedTank.turret) {
-        if (k !== User.turret.name.toLowerCase()) {
-            delete SelectedTank.turret[k];
-        };
-    };
-    for (const k in SelectedTank.hull) {
-        if (k !== User.hull.name.toLowerCase()) {
-            delete SelectedTank.hull[k];
-        };
-    };
-});
-
-Turret.addEventListener('change', () => {
-    SelectedTank.turret[User.turret.name.toLowerCase()] = Turret.value;
-    localStorage['papa'] = JSON.stringify(SelectedTank);
-    for (const k in SelectedTank.turret) {
-        if (k !== User.turret.name.toLowerCase()) {
-            delete SelectedTank.turret[k];
-        };
-    };
-    for (const k in SelectedTank.hull) {
-        if (k !== User.hull.name.toLowerCase()) {
-            delete SelectedTank.hull[k];
-        };
-    };
-});
 
 document.addEventListener('keydown', (e) => {
     if (e.ctrlKey && e.key == 'm') {
         e.preventDefault();
         if (isAllowed) {
           document.querySelector('.gui2').style.display = document.querySelector('.gui2').style.display == 'block' ? 'none' : 'block';
-          document.querySelector('.gui3').style.display = document.querySelector('.gui3').style.display == 'block' ? 'none' : 'block';
         } else {
           document.querySelector('.gui2').style.display = 'none';
-          document.querySelector('.gui3').style.display = 'none';
           alert('You\'re 15 minutes is up!');
         };
     };
