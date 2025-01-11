@@ -287,7 +287,7 @@ document.body.insertAdjacentHTML('beforeend', `
         <div class="switch-item">
             <input id='skin-check' class='hotkey' type='checkbox'>
             <label for='skin-check' class="slider"></label>
-            <label for='skin-check' class="switch-label">XP XT's</label>
+            <label for='skin-check' class="switch-label">Skins</label>
             <div class='info'>(XP XT's) Saves choice on refresh, client-sided only</div>
         </div>
 
