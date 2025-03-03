@@ -173,7 +173,7 @@ function animationFrameFunc() {
             body.scaled = true;
         });
     };
-    if (config.hacks.ignoreTanks.enabled) {
+    if (config.hacks.ignoreTanks.enabled && config.utils.tank) {
         var body = Object.values(searchInObject(Object.values(searchInObject(Object.values(searchInObject(config.utils.tank, '==14'))[0], '==3'))[0], '==43'))[0];
         if (!body) return;
         if (body.scaled) return;
