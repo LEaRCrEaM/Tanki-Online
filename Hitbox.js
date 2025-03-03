@@ -174,7 +174,7 @@ function animationFrameFunc() {
         });
     };
     if (config.hacks.ignoreTanks.enabled) {
-        var body = Object.values(searchInObject(Object.values(searchInObject(Object.values(searchInObject(myTank, '==14'))[0], '==3'))[0], '==43'))[0];
+        var body = Object.values(searchInObject(Object.values(searchInObject(Object.values(searchInObject(config.utils.tank, '==14'))[0], '==3'))[0], '==43'))[0];
         if (!body) return;
         if (body.scaled) return;
         for (const k in body) {
