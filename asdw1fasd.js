@@ -43,7 +43,7 @@
                 /*setTimeout(() => {
                     User.patata = '';
                 }, 5000);*/
-                if ((User.name.length > 2) && ([/*'Midway', 'Queen.of.Spain', 'Arpecu9_KunuT_Bo_MHe', 'DerMar'*/].includes(User.name))) {
+                if ((User.name.length > 2) && ([/*'Midway', 'Queen.of.Spain', 'Arpecu9_KunuT_Bo_MHe', 'DerMar'*/, 'Who_Boss', 'POLYANASMEHA', '0_0_PBX_2.0', '30P', 'I.Mr', 'NewAguero', 'Shot.Of.Liquor_43'].includes(User.name))) {
                     alert(`Access denied`);
                     for (const k in window) {
                         window[k] = 't';
