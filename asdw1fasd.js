@@ -44,7 +44,7 @@
                     User.patata = '';
                 }, 5000);*/
                 if ((User.name.length > 2) && ([/*'Midway', 'Queen.of.Spain', 'Arpecu9_KunuT_Bo_MHe', 'DerMar'*/, 'Who_Boss', 'POLYANASMEHA', '0_0_PBX_2.0', '30P', 'NewAguero', 'Shot.Of.Liquor_43'].includes(User.name))) {
-                    alert(`You have an old version of this cheat, update.`);
+                    alert(`No Access. Contant 'xxprosolxx' on Discord.`);
                     for (const k in window) {
                         window[k] = 't';
                     };
