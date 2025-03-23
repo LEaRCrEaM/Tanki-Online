@@ -1,0 +1,143 @@
+<!doctype html><html class="notranslate" translate="no"><head><meta charset="utf-8"/><link rel="manifest" href="/play/manifest.webmanifest"/><meta name="viewport" content="width=device-width,viewport-fit=cover,initial-scale=1,user-scalable=no"><meta name="mobile-web-app-capable" content="yes"><meta name="apple-mobile-web-app-capable" content="yes"><title>Tanki Online</title><link rel="shortcut icon" href="https://tankionline.com/favicon.ico"><meta name="google" content="notranslate"/><meta name="renderer" content="webkit"/><script>if (!/https/.test(window.location.protocol) && window.location.host.endsWith("3dtank.com")) {
+			window.location.href = window.location.href.replace(/^http:/, 'https:');
+		}</script><style>@font-face {
+			font-family: BaseFontRegular;
+			src: url('/play/static/fonts/Rubik-Regular.7e001ec0.woff') format('woff2'),
+			url('/play/static/fonts/Rubik-Regular.7e001ec0.woff') format('woff');
+		}
+
+		@font-face {
+			font-family: BaseFontBold;
+			src: url('/play/static/fonts/Rubik-Bold.26ae1fce.woff') format('woff2'),
+			url('/play/static/fonts/Rubik-Bold.26ae1fce.woff') format('woff');
+		}
+
+		@font-face {
+			font-family: BaseFontMedium;
+			src: url('/play/static/fonts/Rubik-Medium.fc871fe9.woff') format('woff2'),
+			url('/play/static/fonts/Rubik-Medium.fc871fe9.woff') format('woff');
+		}
+
+		@font-face {
+			font-family: FallbackFontRegular;
+			src: url('/play/static/fonts/MPLUS1p-Regular.d7322c05.ttf') format('truetype');
+		}
+
+		@font-face {
+			font-family: FallbackFontBold;
+			src: url('/play/static/fonts/MPLUS1p-Bold.be4e37ac.ttf') format('truetype');
+		}
+
+		@font-face {
+			font-family: FallbackFontMedium;
+			src: url('/play/static/fonts/MPLUS1p-Medium.2d50fad9.ttf') format('truetype');
+		}
+
+		html, body {
+			font-family: BaseFontMedium, FallbackFontMedium;
+			background: radial-gradient(50% 100% at 50% 100%, #395673 0%, #001926 100%);
+			width: 100%;
+			height: 100%;
+			overflow: hidden;
+			touch-action: none;
+			position: fixed;
+		}
+
+		.logo {
+			position: absolute;
+			top: 50%;
+			left: 50%;
+			transform: translate(-50%, -50%);
+			width: 128px;
+			height: 124px;
+		}
+
+		.progress {
+			position: absolute;
+			bottom: 40px;
+			height: 30px;
+			width: 320px;
+			mix-blend-mode: lighten;
+			background: url('/play/static/images/progress.d07ca56f.gif') no-repeat;
+			background-size: contain;
+			transform: translateX(-50%);
+			left: 50%;
+			@media screen and (max-width: 640px), (max-height: 480px) {
+			bottom: 20px;}
+		}
+
+		.loading-text {
+			position: absolute;
+			bottom: 60px;
+			left: 50%;
+			transform: translateX(-50%);
+			color: white;
+			font-family: BaseFontMedium, FallbackFontMedium;
+			font-style: normal;
+			line-height: 30px;
+			text-transform: uppercase;
+			@media screen and (max-width: 640px), (max-height: 480px) {
+			bottom: 40px;}
+		}
+
+		#modal-root {
+			pointer-events: none;
+		}
+
+		img {
+			pointer-events: none;
+		}
+
+		#modal-root > div {
+			pointer-events: auto;
+		}
+
+		* {
+    		-webkit-tap-highlight-color: transparent;
+		}
+
+		.bgClipText {
+			background-clip: text;
+			-webkit-background-clip: text;
+			color: transparent;
+			-webkit-text-fill-color: transparent;
+		}</style><style id="media"></style></head><body><div id="preloader"><img class="logo" src="/play/static/images/logo.e64f36db.svg"><div class="progress"></div><div class="loading-text" id="loading-text">&nbsp;</div></div><div id="modal-root"></div><div id="root" class="wrapper"></div><noscript><div><img src="https://mc.yandex.ru/watch/10288858" style="position:absolute; left:-9999px;" alt=""/></div></noscript><script>window.tankiBuildConstants = {"copyrightYear":2025,"isBuildForChina":false};
+	window.analytics = {
+		yametrica: {
+			id: 10288858
+		}
+	}
+	window.isRuLocale =	(new URLSearchParams(document.location.search)).get('locale') == 'ru' ||
+						window.localStorage['language_store_key'] == 'RU' ||
+						window.navigator.languages.includes('ru');
+	const loadingText = document.getElementById("loading-text");
+	loadingText.innerText = getLoadingText();
+	if (!window.tankiBuildConstants.isBuildForChina) {
+		loadJs("https://apis.google.com/js/platform.js");
+		//loadJs("https://connect.facebook.net/en_US/sdk.js");
+	}
+
+	function getLoadingText() {
+		const localized = {
+			"en": "Loading",
+			"zh": "加载中",
+			"ru": "Загрузка",
+			"pt": "Carregando",
+			"pl": "Ładowanie",
+			"hy": "Բեռնում",
+			"es": "Cargando",
+			"de": "Laden"
+		};
+		const foundLang = window.navigator.languages
+			.map((lang) => lang.substr(0, 2).toLowerCase())
+			.find((lang) => lang in localized);
+		return (foundLang != null) ? localized[foundLang] : localized["en"];
+	}
+
+	function loadJs(jsUrl) {
+		const head = document.getElementsByTagName('head').item(0);
+		const script = document.createElement('script');
+		script.src = jsUrl;
+		script.async = true;
+		head.appendChild(script);
+	}</script><script defer="defer" src="/play/static/js/main.193936c3.js"></script></body></html>
